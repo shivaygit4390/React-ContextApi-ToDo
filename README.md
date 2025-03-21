@@ -19,3 +19,7 @@ A modern Todo application built with React and styled using Tailwind CSS. This a
 - **Tailwind CSS**: For styling the app with a modern, responsive design.
 - **React Context API**: For state management across components.
 - **Local Storage**: For persisting tasks in the browser.
+
+
+# Screenshots 
+Sample Screenshots are present in screenshots foldder in the repository
